@@ -17,6 +17,7 @@ _global_script_class_icons={
 
 config/name="tilemap_navigation_3.1"
 run/main_scene="res://Scene.tscn"
+boot_splash/bg_color=Color( 0.917647, 0.0862745, 0.0862745, 1 )
 config/icon="res://icon.png"
 
 [importer_defaults]
