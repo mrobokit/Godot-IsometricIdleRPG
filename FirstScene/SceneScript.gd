@@ -17,3 +17,5 @@ func _unhandled_input(event : InputEvent):
 	var new_path : = navigation.get_simple_path(player.global_position, event.global_position)
 	player.path = new_path
 	line.points = new_path
+	
+	

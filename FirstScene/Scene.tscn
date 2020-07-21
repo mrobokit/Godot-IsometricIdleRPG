@@ -22,6 +22,11 @@ position = Vector2( 261.836, 185.214 )
 texture = ExtResource( 1 )
 script = ExtResource( 3 )
 
+[node name="Player2" type="Sprite" parent="."]
+position = Vector2( 692.836, 180.214 )
+texture = ExtResource( 1 )
+script = ExtResource( 3 )
+
 [node name="Line2D" type="Line2D" parent="."]
 width = 5.0
 default_color = Color( 0.4, 0.501961, 1, 1 )
